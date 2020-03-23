@@ -1,4 +1,4 @@
 @echo off
-echo Hello %1
+echo Hello %paramTest%
 echo param0 %0
 pause
